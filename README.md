@@ -24,7 +24,7 @@ Contact
 There should be no need to install the project as it is a web page, I am aiming to utilise git pages to create a working preview on GitHub, however you can download the files to your own machine to view the code. 
 
 ## Usage:
-![Heading and logo image](./assets/Screenshots/Header and image.JPG) 
+! [Heading and logo image] (./assets/Screenshots/Header and image.JPG) 
 
 ## Road Map:
 I have only solved the issues that have been highlighted to me by the project brief, there are other issues with the web page such as rescaling the browser window. These issues can be resolved with responsive web pages and media quires to accommodate different browser sizes. 
