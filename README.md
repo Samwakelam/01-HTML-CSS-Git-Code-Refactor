@@ -31,7 +31,7 @@ The Link shown here "search engin optimization" was broken, I fixed this with an
 I made the Nav bar links show up if hovered over incase of keyboard selection control being used for diability - shows selection. 
 
 ![Example of .managemnet class](assets/Screenshots/managementClass.JPG)  
-![Example of .benifit class](assets/Screenshots/beniftClass.JPG)
+![Example of .benifit class](assets/Screenshots/benifitClass.JPG)
 These examples show combining css code that was repetitive of itself by implementing a single class to cover all instances.   
   
 I have also included the use of em for the text sizing to make the text editable/scallable for disability use.   
