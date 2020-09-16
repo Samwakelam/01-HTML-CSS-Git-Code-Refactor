@@ -24,7 +24,7 @@ I have learnt how to upload a project from my computer onto GitHub using git Ini
 There should be no need to install the project as it is a web page, I am aiming to utilise git pages to create a working preview on GitHub, however you can download the files to your own machine to view the code. 
 
 ## Usage:
-![Heading and logo image](file://assets/Screenshots/"Header and image.JPG") 
+![Heading and logo image](assets/Screenshots/"Header and image.JPG") 
 <img src="assets/Screenshots/Header and Image.jpg>
 
 ## Road Map:
