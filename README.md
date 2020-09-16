@@ -24,12 +24,8 @@ I have learnt how to upload a project from my computer onto GitHub using git Ini
 There should be no need to install the project as it is a web page, I am aiming to utilise git pages to create a working preview on GitHub, however you can download the files to your own machine to view the code. 
 
 ## Usage:
-<<<<<<< HEAD
-![Heading and logo image](assets/Screenshots/Header and image.JPG) 
-=======
-![Heading and logo image](assets/Screenshots/"Header and image.JPG") 
-<img src="assets/Screenshots/Header and Image.jpg>
->>>>>>> e280ba8554d0490dedf7c688c93e0829d8c26e7b
+![Heading and logo image](assets/Screenshots/headerAndImage.jpg) 
+
 
 ## Road Map:
 I have only solved the issues that have been highlighted to me by the project brief, there are other issues with the web page such as rescaling the browser window. These issues can be resolved with responsive web pages and media quires to accommodate different browser sizes. 
