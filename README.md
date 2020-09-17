@@ -37,7 +37,7 @@ These examples show combining css code that was repetitive of itself by implemen
 I have also included the use of em for the text sizing to make the text editable/scallable for disability use.   
   
 Just to show another way to embed an image in markdown:  
-![Example image from gitPages](https://samwakelam.github.io/01-HTML-CSS-Git-Code-Refactor/assets/images/search-engine-optimization.jpg)  
+[Example image from gitPages](https://samwakelam.github.io/01-HTML-CSS-Git-Code-Refactor/assets/images/search-engine-optimization.jpg)  
 
 
 ## Road Map:
