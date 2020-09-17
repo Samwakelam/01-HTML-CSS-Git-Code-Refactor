@@ -37,9 +37,14 @@ These examples show combining css code that was repetitive of itself by implemen
 I have also included the use of em for the text sizing to make the text editable/scallable for disability use.   
   
 Just to show another way to embed an image in markdown:  
-![Example image from gitPages](https://samwakelam.github.io/01-HTML-CSS-Git-Code-Refactor/assets/images/search-engine-optimization.jpg)    
-<img src="https://samwakelam.github.io/01-HTML-CSS-Git-Code-Refactor/assets/images/search-engine-optimization.jpg">   
+![Example image from gitPages](https://samwakelam.github.io/01-HTML-CSS-Git-Code-Refactor/assets/images/search-engine-optimization.jpg)   
+I have left this visable to show my mistake in referenceing my GitHub Pages site as an image embed location. 
+
+This shows an external website: [lego.com](https://www.lego.com/cdn/cs/set/assets/blt7834a19a4ff6568c/75290-202009-Hero-Standard-Large-2.jpg?fit=crop&format=webp&quality=80&width=1600&height=500&dpr=1.5)
 ![testing an image](https://www.lego.com/cdn/cs/set/assets/blt7834a19a4ff6568c/75290-202009-Hero-Standard-Large-2.jpg?fit=crop&format=webp&quality=80&width=1600&height=500&dpr=1.5)   
+As a test for the https//: I have included this image. I dont think you can reference your own GitHub Pages site in the README.md file 
+
+a third way is using an <img> tag, as with the GitHub pages it doesnt like referenceing the image from here. 
 
 ## Road Map:
 I have only solved the issues that have been highlighted to me by the project brief, there are other issues with the web page such as rescaling the browser window. These issues can be resolved with responsive web pages and media quires to accommodate different browser sizes. 
