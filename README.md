@@ -24,14 +24,14 @@ I have learnt how to upload a project from my computer onto GitHub using git Ini
 There should be no need to install the project as it is a web page, I am aiming to utilise git pages to create a working preview on GitHub, however you can download the files to your own machine to view the code. 
 
 ## Usage:
-![Heading and logo image](assets/Screenshots/headerAndImage.jpg)   
+![Heading and logo image](assets/Screenshots/headerAndImage-min.jpg)   
 The Link shown here "search engin optimization" was broken, I fixed this with an appropriate reference to the ID tag locater. 
 
-![Example of css code showing a:hover](assets/Screenshots/aHover.JPG)  
+![Example of css code showing a:hover](assets/Screenshots/aHover-min.JPG)  
 I made the Nav bar links show up if hovered over incase of keyboard selection control being used for diability - shows selection. 
 
-![Example of .managemnet class](assets/Screenshots/managementClass.JPG)  
-![Example of .benifit class](assets/Screenshots/benifitClass.JPG)
+![Example of .managemnet class](assets/Screenshots/managementClass-min.JPG)  
+![Example of .benifit class](assets/Screenshots/benifitClass-min.JPG)
 These examples show combining css code that was repetitive of itself by implementing a single class to cover all instances.   
   
 I have also included the use of em for the text sizing to make the text editable/scallable for disability use.   
